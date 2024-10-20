@@ -1,2 +1,9 @@
 # hello-world
 Project Airtondrop
+Overview of the TON project
+Description of the project
+Our location: Https://t.me/airtondrop
+Our token: EQBjG6Rr4OvUFjMbEaOTEoMlWCcHWXj0fw0kqJ14lXKXV7MX
+The Open Network (TON) is a fast, secure, scalable and decentralized blockchain capable of processing millions of transactions per second if necessary. It is convenient for both the user and the service provider. Developers strive to ensure that it can accommodate all applications: both existing and planned ones. TON can be imagined as a huge distributed supercomputer, or rather a huge superserver designed to host and provide a variety of services.
+• TON blockchain is the heart of the TON ecosystem. It is capable of processing millions of transactions per second, has smart contracts, updatable specifications, multicurrency transactions, support for micropayment channels and payment off-chain networks. The TON blockchain provides some unique and new features, such as Self-healing Vertical Blockchain Mechanism and Instant Hypercube Routing, allowing it to be fast, reliable, scalable and self-consistent at the same time.
+We were inspired by the idea to create a product on the TON blockchain and want to introduce users to the products on this network. A product was created for this purpose Https://t.me/airtondrop which initially introduces the user to the simplest mechanics of mini-app applications, where you can read interesting current news, watch and read training materials from simple to more complex and just chat. Our goal is to create an independent community that can discuss any issues related to the world of cryptocurrencies. Eventually, we will give our ATON token in the form of an airdrop to users as a reward. We are at the beginning of the journey, all the details are ahead! Welcome to our community!
